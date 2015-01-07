@@ -21,6 +21,5 @@ def hashRowAsElement ( csvString, keyWord )
 	end
     end
 
-    puts res.inspect
-
+    res.inspect
 end
